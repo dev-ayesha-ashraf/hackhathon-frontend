@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Inter:wght@700&family=Pacifico&display=swap');
+.navHead{
+    font-family: 'Pacifico', cursive;
+    font-weight: 900 !important;
+    font-size: 20px !important;
+}
